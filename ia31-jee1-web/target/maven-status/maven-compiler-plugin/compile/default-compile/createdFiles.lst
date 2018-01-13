@@ -1,0 +1,5 @@
+net\service\ClientId.class
+net\vpc\ClientController.class
+net\service\SoldeService.class
+net\vpc\AccountController.class
+net\vpc\TransactionController.class

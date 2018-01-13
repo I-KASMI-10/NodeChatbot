@@ -1,0 +1,17 @@
+net\vpc\Hammadi.class
+net\vpc\NewSessionBean.class
+net\vpc\Client_.class
+net\vpc\Account.class
+net\vpc\Alia.class
+net\vpc\TransactionsClient.class
+net\vpc\Alia_.class
+net\vpc\Account_.class
+net\vpc\models\ClientFacade.class
+net\vpc\Hammadi_.class
+net\vpc\NewEntity_.class
+net\vpc\Client.class
+net\vpc\models\TransactionsClientFacade.class
+net\vpc\TransactionsClient_.class
+net\vpc\models\AbstractFacade.class
+net\vpc\models\AccountFacade.class
+net\vpc\NewEntity.class
